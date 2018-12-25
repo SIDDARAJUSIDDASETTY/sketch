@@ -1,0 +1,11 @@
+#container{
+    position: relative;
+    outline:5px solid #999;
+    font-size: 0;
+    height: 960px;
+    width: 960px;
+}
+.grid{
+    outline:1px solid #000;
+    display:inline-block;
+}
